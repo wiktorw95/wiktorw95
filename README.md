@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Wiktor! 👋
 
-<!--
-**wiktorw95/wiktorw95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of Information Technology (PJATK) in Gdańsk. Currently in my 3rd year, I focus on bridging the gap between robust web applications and intelligent systems.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 📍 Based in **Gdynia, Poland**.
+- 🎓 Specialized in **Artificial Intelligence** at PJATK.
+- 🛠️ Currently building innovative solutions involving **IoT, Robotics, and Machine Learning**.
+- 🌍 When I'm not coding, you can find me **traveling**, staying active through **sports**, or hanging out with friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | Python, JavaScript, TypeScript, HTML/CSS |
+| **Backend** | Node.js, NestJS, Express.js |
+| **Frontend** | React |
+| **AI / Machine Learning** | TensorFlow, PyTorch |
+| **Databases** | PostgreSQL, MongoDB |
+| **DevOps & Tools** | Docker, Git |
+
+---
+
+### 🏗️ Current Projects (In Development)
+
+* **Robus_Robot** – An ambitious university robotics project focusing on creating a prototype of a modular robot with implemented Artificial Inteligence to move around by itself.
+* **RL_Maze** – Exploring Reinforcement Learning through maze-solving agents.
+* **IoT-Fire-Alarm** – An intelligent fire detection system using environmental sensors and real-time alerts.
+
+---
+
+### 📫 Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiktorwilkwolf@gmail.com)
