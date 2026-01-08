@@ -2,15 +2,13 @@
 
 I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of Information Technology (PJATK) in Gdańsk. Currently in my 3rd year, I focus on bridging the gap between robust web applications and intelligent systems.
 
-### 🚀 About Me
+### About Me
 - 📍 Based in **Gdynia, Poland**.
 - 🎓 Specialized in **Artificial Intelligence** at PJATK.
 - 🛠️ Currently building innovative solutions involving **IoT, Robotics, and Machine Learning**.
 - 🌍 When I'm not coding, you can find me **traveling**, staying active through **sports**, or hanging out with friends.
 
 ---
-
-### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
 | --- | --- |
@@ -23,7 +21,7 @@ I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of I
 
 ---
 
-### 🏗️ Current Projects (In Development)
+### Current Projects (In Development)
 
 * **Robus_Robot** – An ambitious university robotics project focusing on creating a prototype of a modular robot with implemented Artificial Inteligence to move around by itself.
 * **RL_Maze** – Exploring Reinforcement Learning through maze-solving agents.
@@ -31,5 +29,5 @@ I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of I
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiktorwilkwolf@gmail.com)
