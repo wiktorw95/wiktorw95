@@ -1,4 +1,4 @@
-# Hi there, I'm Wiktor! 👋
+# Hi there, I'm Wik!
 
 I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of Information Technology (PJATK) in Gdańsk. Currently in my 3rd year, I focus on bridging the gap between robust web applications and intelligent systems.
 
