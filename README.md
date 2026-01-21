@@ -5,7 +5,7 @@ I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of I
 ### About Me
 - 📍 Based in **Gdynia, Poland**.
 - 🎓 Specialized in **Artificial Intelligence** at PJATK.
-- 🛠️ Currently building innovative solutions involving **IoT, Robotics, and Machine Learning**.
+- 🛠️ Currently building innovative solutions involving **Web Development and Machine Learning**.
 - 🌍 When I'm not coding, you can find me **traveling**, staying active through **sports**, or hanging out with friends.
 
 ---
@@ -18,14 +18,6 @@ I am a 21-year-old **AI Specialist student** at the Polish-Japanese Academy of I
 | **AI / Machine Learning** | TensorFlow, PyTorch |
 | **Databases** | PostgreSQL, MongoDB |
 | **DevOps & Tools** | Docker, Git |
-
----
-
-### Current Projects (In Development)
-
-* **Robus_Robot** – An ambitious university robotics project focusing on creating a prototype of a modular robot with implemented Artificial Inteligence to move around by itself.
-* **RL_Maze** – Exploring Reinforcement Learning through maze-solving agents.
-* **IoT-Fire-Alarm** – An intelligent fire detection system using environmental sensors and real-time alerts.
 
 ---
 
